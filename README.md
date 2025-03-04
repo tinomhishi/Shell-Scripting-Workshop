@@ -21,7 +21,10 @@ A method for automating command line tasks for sysadmin, devops and automated de
 
 -  **Bash Files**: Use *.sh* file extensions.
 
--  **Batch**: For Windows based systems supports less advanced scripting. Advanced functionality moved to powershell.
+-  **Batch**: For Windows based systems supports less advanced scripting. Advanced functionality moved to powershell. For instance:
+  1. Functions and Local Variables.
+  2. Arrays and associative Arrays.
+  3. String Manipulation.
 
 -  **Batch Files**: Use *.bat* filex extentions.
 
